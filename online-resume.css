@@ -1,0 +1,57 @@
+.left-sec {
+    background-color: #363533;
+    background-size: cover;
+    width: 50%;
+    padding: 30px;
+    text-align: left;
+    color: white;
+}
+
+.link {
+    color: white;
+}
+
+.heading {
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-family: "Sans-Serif";
+}
+
+.description {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: #254d3d;
+}
+
+.hr-line {
+    border-width: 2px;
+    border-style: solid;
+}
+
+.caption-down {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+
+.side-heading-right {
+    color: black;
+    font-weight: 600;
+    font-family: "Sans-Serif";
+}
+
+.side-heading {
+    font-weight: 600;
+    font-family: "Sans-Serif";
+    color: white;
+}
+
+.right-sec {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+    width: 60%;
+    padding: 30px;
+    color: #254d3d;
+}
